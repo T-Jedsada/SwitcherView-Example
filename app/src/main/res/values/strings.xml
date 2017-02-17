@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">SwitcherViewExample</string>
+    <string name="text_server_error">Oops,\nSomething went worng.</string>
+    <string name="nothing_found">Nothing Found!</string>
+    <string name="content">Content</string>
+    <string name="image_data_empty">image_data_empty</string>
+    <string name="btn_content">Show Content</string>
+    <string name="show_empty_data">Show Empty Data</string>
+    <string name="show_server_error">Show Server Error</string>
 </resources>
